@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataScienceProjects.iml" filepath="$PROJECT_DIR$/DataScienceProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FraudDetection/FraudDetection.iml" filepath="$PROJECT_DIR$/FraudDetection/FraudDetection.iml" />
+    </modules>
+  </component>
+</project>
